@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "slgwallet",
+    "slug": "slgwallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "slgwallet"
+}
