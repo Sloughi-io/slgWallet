@@ -1,0 +1,10 @@
+ image:
+  file: .gitpod.dockerfile
+ports:
+  - port: 19000-19002
+tasks:
+  - before: yarn install
+    command: yarn t
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
